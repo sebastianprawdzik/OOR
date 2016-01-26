@@ -1,0 +1,36 @@
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.pdb
+D:\Dropbox\Studia\Semestr_7\Oor\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.pdb
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dropbox\Studia\Semestr_7\Orw\Laboratioria\lab2_P_asynchroniczne\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\programy (1)\programowanie_asynchroniczne\windowsformsapplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>OOR licznik do 1000</title>
+ </head>
+ <body>
+ <button onclick="start()">Start</button>
+<output id="result"></output>
+
+<p>Licznik do 1000: <output id="result1"></output></p>
+
+
+<script>
+function start() {
+    var worker1 = new Worker('worker.js');
+   worker1.onmessage = function (event) {
+     document.getElementById('result1').textContent = event.data;
+   };
+  }
+  
+
+</script>
+
+ </body>
+</html>

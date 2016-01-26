@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+
+<head>
+  <title>WebSocket Sebastian Prawdzik</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <script type="text/javascript" src="chat.js"></script>
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+
+  .bg-1 { 
+      background-color: #1abc9c; 
+      color: #ffffff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+
+  </style>
+</head>
+<body>
+<div class="container-fluid bg-1 text-center">
+    <header>
+        <h1>WebSocet w HTML z JavaScript</h1>
+    </header>
+      
+        <input type="text" id="text-view" placeholder="wprowadź wiadomość" class="form-control" />
+        <input type="button" class="btn btn-success" id="send-button" value="Wyslij!" />
+        <br />
+        <label id="status-label">Status</label>
+        <br />
+        <input type="button" class="btn btn-danger" id="stop-button" value="Stop" />
+		<a href="index.html">
+			<button type="button" class="btn btn-primary" id="start-button" value="Start" />Start</button>
+		</a>
+
+</div>
+	</body>
+</html>
